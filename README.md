@@ -1,2 +1,2 @@
 # node-http-request
-http request with node.js
+http GET request with node.js
